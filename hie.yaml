@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "kata:lib"
+
+    - path: "./test"
+      component: "kata:test:kata-test"
